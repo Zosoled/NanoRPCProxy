@@ -36,6 +36,7 @@
     "account_weight",
     "accounts_frontiers",
     "accounts_pending",
+    "accounts_representatives",
     "active_difficulty",
     "available_supply",
     "block_account",
